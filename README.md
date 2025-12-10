@@ -108,7 +108,7 @@ For questions, please contact:
 
 **Lizhu Liu**  
 Hunan University  
-Email: [your-email@hnu.edu.cn]
+Email: liulz@hnu.edu.cn
 
 ---
 
@@ -128,12 +128,4 @@ If you find this work helpful, please cite:
 
 ---
 
-## 🙏 Acknowledgements
 
-This work was supported by the National Natural Science Foundation of China (Grants 62027810, 92148204), the National Key R&D Program of China (Grant 2021ZD0114503), and other funding sources listed in the paper.
-
----
-
-## 📝 License
-
-[To be determined]
